@@ -2,7 +2,7 @@
 
 **Hi, my name is "Happytrogon"** I have an ✨interest✨ in everything related to technology 🚀. 
 
-Here are some ideas to get you started:
+I love solving problems with programming.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
