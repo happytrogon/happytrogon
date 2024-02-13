@@ -7,6 +7,7 @@ I love solving problems with programming.
 - 🐧 Love Linux.
 - 🌱 I’m currently learning C#, Front-End Languages.
 - 🌍 Website https://www.happytrogon.com
+- 📝 Blog https://happytrogon.wordpress.com
 - 📫 How to reach me: happytrogon@gmail.com
 - 😄 Pronouns: happytrogon.
 - ⚡ Fun fact: "Temet Nosce"
